@@ -28,9 +28,11 @@ SOCIAL = (('LinkedIn page', 'https://www.linkedin.com/in/bhattacharyya'),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 THEME = "pelican-themes/tuxlite_zf"
+
+DISQUS_SITENAME = "esesbee"
 
 STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
