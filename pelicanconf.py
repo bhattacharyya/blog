@@ -6,7 +6,7 @@ AUTHOR = u'Shantanu Bhattacharyya'
 SITENAME = u'Exploring Data'
 SITEURL = 'https://bhattacharyya.github.io'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -31,6 +31,8 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 THEME = "pelican-themes/tuxlite_zf"
+
+OUTPUT_PATH = 'output/'
 
 DISQUS_SITENAME = "esesbee"
 
