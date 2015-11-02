@@ -32,6 +32,8 @@ RELATIVE_URLS = True
 
 THEME = "pelican-themes/tuxlite_zf"
 
+OUTPUT_PATH = 'output/'
+
 DISQUS_SITENAME = "esesbee"
 
 STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
