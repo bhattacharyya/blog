@@ -1,19 +1,11 @@
-Title: Starting log
-Date: 2015-11-01 10:20
-Category: Thoughts
-Tags: python, data science
-Slug: start-log
-Author: Shantanu Bhattacharyya
-Summary: Starting a log of my learning experience with python and data science.
+Title: First Post
+Date: 2017-10-13 12:40
+Modified: 2018-08-06 02:03 PM
+Status: published
+Category: This site
+Tags: python, markdown, blog
+Slug: first-post
+Authors: Shantanu S. Bhattacharyya
+Summary: This is the summary of the first post
 
-Back in the day and I mean way back, I used to be a major advocate of the perl programming language. My choice wasnt guided by any real technical reason. It was the language I saw some of my friends and seniors use and it somehow seemed more accessible to a newbie like me than python or java or C++. Within a few months I was going through the classic "language fanboy" phase where using any other language apart from perl was simply blasphemous and python users seemed particularly moronic to chose a language that cares about whitespace. Looking back, the famous adage "*When your tool is a hammer, everything looks like a nail*" makes perfect sense.
-
-Today I am a python disciple. Not an expert, not even close, but a very happy practitioner of the language. There is nothing wrong with perl or for that matter, any of the array of programming languages that exist out there. The trick is to appreciate the task and not the tools. If speed is critical for you, you should seriously consider C++. If web programming is your thing, you probably swear by javascript. In many cases, more than one language is needed to address different modules of your project in an optimal fashion. I personally feel that there should be only two things you need to consider regarding your choice of language. Is it optimal or near optimal to address your objectives ? And secondly, is the language compatible with your thinking/coding style ? If the fact that python forces you to care about whitespace makes you mad over a prolonged time, may be you are better off with precious stones than dangerous reptiles :) 
-
-The second question is clearly a matter of personal taste but I will suggest an answer to the first question within the specific context of data exploration. The amount of freely available public data is exponentially increasing and the amount of insight and patterns that can be mined from those datasets is limited only by our creativity. Asking the right questions is the key here. But once, the right questions are asked, I find that the increasingly powerful family of python based data analysis tools are optimal to generate the right answers. I must stress here that this is a subjective opinion, but an opinion that is increasingly backed by lots of experts in the field and the active development of the python ecosystem of data analysis packages. If you choose to start with R, thats perfect too. If you rely on commercial packages, not too perfect but ehh.  
-
-Now that I have made my decision, I find myself with limited experience of python and no experience of the other tools. Challenge accepted ! 
-
-First I need to make a blog where I can document my progress and hope people will criticize me (not), help me and find my own notes helpful in similar stages of their learning experience. I also intend to make a list of sites which host large data that I can play with.
-
-Game on ...
+This is the very first post!
