@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Shantanu Bhattacharyya'
 SITENAME = 'String Constant'
-SITEURL = ''
+SITEURL = 'stringconstant.com'
 
 PATH = 'content'
 
@@ -18,6 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+THEME = "./pelican-themes/elegant"
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
